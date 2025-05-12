@@ -21,6 +21,11 @@ Options:
 ```
 
 ![me.sh](./preview/me.png)
+- Quick start
+
+```sh
+bash <(curl -sSL https://static.zloved.me/shell/me.sh) --ascii-color cyan
+```
 
 #### draw_char.sh
 
@@ -41,3 +46,10 @@ Options:
 ```
 
 ![draw_char.sh](./preview/draw_char.png)
+
+- Quick start
+
+```sh
+bash <(curl -sSL https://static.zloved.me/shell/draw_char.sh) --font ANSI_Shadow
+```
+
