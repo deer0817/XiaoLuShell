@@ -20,7 +20,7 @@ Options:
   --version               Show version information
 ```
 
-![me.sh](./preview/me.png)
+![me.sh](https://cdn.jsdelivr.net/gh/deer0817/XiaoLuShell/preview/me.png)
 - Quick start
 
 ```sh
@@ -45,7 +45,7 @@ Options:
   --version                Show version information
 ```
 
-![draw_char.sh](./preview/draw_char.png)
+![draw_char.sh](https://cdn.jsdelivr.net/gh/deer0817/XiaoLuShell/preview/draw_char.png)
 
 - Quick start
 
